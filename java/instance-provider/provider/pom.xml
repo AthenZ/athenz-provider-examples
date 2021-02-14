@@ -28,7 +28,7 @@
     <jetty.version>9.4.36.v20210114</jetty.version>
     <jersey.version>2.33</jersey.version>
     <jackson.version>2.12.1</jackson.version>
-    <athenz.version>1.9.29</athenz.version>
+    <athenz.version>1.10.4</athenz.version>
     <bouncycastle.version>1.68</bouncycastle.version>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
@@ -201,16 +201,5 @@
       </plugin>
     </plugins>
   </build>
-
-  <repositories>
-    <repository>
-      <snapshots>
-        <enabled>false</enabled>
-      </snapshots>
-      <id>bintray-yahoo-maven</id>
-      <name>bintray</name>
-      <url>https://yahoo.bintray.com/maven</url>
-    </repository>
-  </repositories>
 
 </project>
