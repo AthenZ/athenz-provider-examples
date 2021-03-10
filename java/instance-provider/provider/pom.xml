@@ -25,7 +25,7 @@
   <description>Athenz Instance Provider Example</description>
 
   <properties>
-    <jetty.version>9.4.36.v20210114</jetty.version>
+    <jetty.version>11.0.1</jetty.version>
     <jersey.version>2.33</jersey.version>
     <jackson.version>2.12.1</jackson.version>
     <athenz.version>1.10.4</athenz.version>
