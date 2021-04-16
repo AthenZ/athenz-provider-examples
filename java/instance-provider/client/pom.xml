@@ -27,8 +27,8 @@
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
-    <athenz.version>1.10.4</athenz.version>
-    <jackson.version>2.12.1</jackson.version>
+    <athenz.version>1.10.11</athenz.version>
+    <jackson.version>2.12.3</jackson.version>
     <jersey.version>2.33</jersey.version>
   </properties>
 
