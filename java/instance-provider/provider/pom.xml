@@ -27,7 +27,7 @@
   <properties>
     <jetty.version>9.4.43.v20210629</jetty.version>
     <jersey.version>2.34</jersey.version>
-    <jackson.version>2.12.4</jackson.version>
+    <jackson.version>2.13.4.1</jackson.version>
     <athenz.version>1.10.24</athenz.version>
     <bouncycastle.version>1.69</bouncycastle.version>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
